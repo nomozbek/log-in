@@ -1,0 +1,22 @@
+.log-in {
+  width:600px;
+  position: relative;
+  height: 200px;
+}
+
+.username-input {
+  margin-left: 50px;
+}
+
+.password-input {
+  margin-left: 50px;
+}
+
+.button {
+  position: absolute;
+  bottom: 30px;
+  right: 280px;
+  border-radius: 20px;
+  padding: 5px;
+  border: none;
+}
